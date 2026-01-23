@@ -1,0 +1,35 @@
+.class1{
+    border:dotted red;
+  
+    width: fit-content;
+    height: fit-content;
+    padding: 0px;
+}
+
+.class2{
+    background-color: aqua;
+    font-size: 21px;
+    width: fit-content;
+}
+
+.class3{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: lightgray;
+    width: fit-content;
+}
+
+.class4{
+    border: solid purple;
+    border-width: medium;
+    width: fit-content;
+    background-color: lightyellow;
+}
+
+#finish{
+    font-size: 30px;
+    color: darkblue;
+    font-weight: bold;
+text-decoration: double underline;
+    }

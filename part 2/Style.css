@@ -3,21 +3,24 @@
   
     width: fit-content;
     height: fit-content;
-    padding: 0px;
+    margin: 20px;
 }
 
 .class2{
     background-color: aqua;
     font-size: 21px;
     width: fit-content;
+    margin: 12px;
 }
 
 .class3{
     font-family: Arial, sans-serif;
     font-size: 20px;
+    color: green;
     text-decoration: underline;
     background-color: lightgray;
     width: fit-content;
+    margin: 20px;
 }
 
 .class4{
@@ -25,11 +28,14 @@
     border-width: medium;
     width: fit-content;
     background-color: lightyellow;
+    padding: 180px;
 }
 
 #finish{
     font-size: 30px;
+    text-align: center;
     color: darkblue;
     font-weight: bold;
 text-decoration: double underline;
+padding: 48px;
     }

@@ -1,0 +1,19 @@
+.face {
+  width: 600px;
+  height: 600px;
+  background-color: yellow;
+color: black;
+}
+
+.left_eye {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+}
+
+.right_eye {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin: 20px;
+}

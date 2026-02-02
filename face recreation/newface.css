@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
+.eye{
+
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: inline-block;
+    margin: 20px;
+}
